@@ -1,4 +1,4 @@
-# 📌 Aplicação de Movie Notes
+# 📌 Aplicação Movie Notes
 
 Este projeto é uma aplicação desenvolvida em **Node.js** utilizando **SQLite** como banco de dados e **Knex.js** como query builder. A aplicação permite que um usuário cadastrado adicione filmes, fornecendo informações como nome, descrição, nota e tags relacionadas. Além disso, implementa recursos como:
 
